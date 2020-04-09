@@ -5,7 +5,7 @@ I find it useful for ensuring that backup jobs and batch uploads are functioning
 
 ## Building
 ```
-make
+make build
 ```
 
 ## Running
